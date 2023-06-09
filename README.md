@@ -1,2 +1,7 @@
 # Ead-system
-EAD system created using PHP (free layout download: HTML, CSS, JS &amp; Bootstrap
+
+💾 Features
+
+🔹 Permissioning system: two different menus and permissions, that considers if you're an admin or not;
+🔹CRUD system for students and classes (only for admins);
+🔹
