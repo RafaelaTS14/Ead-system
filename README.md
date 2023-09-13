@@ -26,6 +26,6 @@
 
 <h1> How to run? </h1>
 
-* install <a href:"https://getcomposer.org/download/"> composer </a>
+* install https://getcomposer.org/download/ composer </a>
 * install PHPMailer using the following command:
 ``` composer require phpmailer/phpmailer ```
